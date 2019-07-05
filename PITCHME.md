@@ -1,51 +1,77 @@
-# Let's Get Started
+# 行き当たりばったりの勉強会遍歴
 
 ---
 
-## Add Some Slide Candy
+## 0. 行き始める前
 
-![](assets/img/presentation.png)
+2016.03 富山高専卒  
+2016.04 都内の企業でWebエンジニアに
 
----?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
+---
 
-@snap[west span-50]
-## Customize the Layout
-@snapend
+## 1. 行き始める
 
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
+2016.07 上司の~命令~勧めにより初勉強会参加
 
-@snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
+- コミュ障
+- 単騎
+- よくわからん技術のやつ
 
----?color=linear-gradient(90deg, #E27924 65%, white 35%)
-@title[Add A Little Imagination]
+でもなんとかなって知り合いも増えた
 
-@snap[north-west h4-white]
-#### And start presenting...
-@snapend
+---
 
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
+## 2. ITの外へ
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
+2016.08 知人の勧めで幅を広げる - 本を紹介し合う読書会
+
+- コミュ障
+- 本読まない
+- 朝つらい
+
+でもなんとかなって知り合いも増えた
+
+---
+
+## 3. そして転職へ...
+
+2018.09 転職
+
+- それなりの実務経験
+- 高専時代に身につけた土台
+- 本で身につけたトレンド理解
+
+なんとかなった
+
+---
+
+## 4. 何気に初参加
+
+2019.06 道玄坂もくもく会 #2
+
+- 持ち運べる開発機なし
+  - iPadだけでやってみる
+- ゴリゴリ書きたいものがあったわけでもない
+  - スモールスタートで形にできるものを
+
+→Glideでアプリ作成 なんとかなって知り合いも増えた
+
+## 5. NOW
+
+2019.07 U23 道玄坂LT会
+
+- 準備ほぼなし、突貫工事
+- テーマも行き当たりばったり、書きながら考える
+
+でもなんとかなってる？？
 
 ---?image=assets/img/presenter.jpg
 
 @snap[north span-100 h2-white]
 ## Now It's Your Turn
 @snapend
+
+(ここテン)
 
 @snap[south span-100 text-06]
 [Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
