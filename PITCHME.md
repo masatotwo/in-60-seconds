@@ -77,7 +77,7 @@
 ## Now It's Your Turn
 @snapend
 
-@snap[p-white]
+@snap[span-white]
 (ここテン)
 @snapend
 
