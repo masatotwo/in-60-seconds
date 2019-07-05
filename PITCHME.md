@@ -67,6 +67,10 @@
 
 でもなんとかなってる？？
 
+---
+
+## 失敗したっていいさ！
+
 ---?image=assets/img/presenter.jpg
 
 @snap[north span-100 h2-white]
